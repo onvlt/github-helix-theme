@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/screenshot-mixed.png" alt="Screenshot of Helix editor with Github themes" style="max-width: 600px" />
+  <img src="./assets/screenshot-mixed.png" alt="Screenshot of Helix editor with Github themes" />
 </div>
 
 # Github themes for [Helix](https://helix-editor.com/) text editor
