@@ -1,71 +1,41 @@
-
-comment.fg = '#bdc4cc'
-comment.modifiers = [
-	'italic',
-]
-constant.fg = '#91cbff'
-'constant.character.escape'.fg = '#addcff'
-diagnostic.modifiers = [
-	'underlined',
-]
-error.fg = '#ffb1af'
-function.fg = '#dbb7ff'
+comment = { fg = '#bdc4cc', modifiers = 'italic' }
+constant = { fg = '#91cbff' }
+'constant.character.escape' = { fg = '#addcff' }
+diagnostic = { modifiers = 'underlined' }
+error = { fg = '#ffb1af' }
+function = { fg = '#dbb7ff' }
 'function.macro' = { }
-keyword.fg = '#ff9492'
-'markup.bold'.fg = '#f0f3f6'
-'markup.bold'.modifiers = [
-	'bold',
-]
-'markup.heading'.fg = '#91cbff'
-'markup.heading'.modifiers = [
-	'bold',
-]
-'markup.italic'.fg = '#f0f3f6'
-'markup.italic'.modifiers = [
-	'italic',
-]
-'markup.link'.fg = '#addcff'
-'markup.link'.modifiers = [
-	'underline',
-]
-'markup.quote'.fg = '#72f088'
-'markup.raw'.fg = '#91cbff'
-operator.fg = '#91cbff'
-string.fg = '#addcff'
-'string.regexp'.fg = '#addcff'
-tag.fg = '#2ea043'
-type.fg = '#ffb757'
-'ui.background'.bg = '#0a0c10'
-'ui.background'.fg = '#f0f3f6'
-'ui.cursor'.modifiers = [
-	'reversed',
-]
-'ui.cursor.match'.bg = '#e09b13'
-'ui.cursor.match'.modifiers = [
-	'bold',
-]
-'ui.cursor.primary'.modifiers = [
-	'reversed',
-]
-'ui.cursorline.primary'.bg = '#010409'
-'ui.help'.bg = '#010409'
-'ui.help'.fg = '#f0f3f6'
-'ui.linenr'.fg = '#9ea7b3'
-'ui.linenr.selected'.fg = '#f0f3f6'
-'ui.menu'.bg = '#010409'
-'ui.menu'.fg = '#f0f3f6'
-'ui.menu.selected'.bg = '#272b33'
-'ui.popup'.bg = '#010409'
-'ui.popup'.fg = '#f0f3f6'
-'ui.selection'.bg = '#272b33'
-'ui.selection.primary'.bg = '#272b33'
-'ui.statusline'.bg = '#010409'
-'ui.statusline'.fg = '#f0f3f6'
-'ui.text'.fg = '#f0f3f6'
-'ui.virtual.ruler'.bg = '#7a828e'
-'ui.virtual.whitespace'.fg = '#7a828e'
-'ui.window'.fg = '#0a0c10'
-variable.fg = '#91cbff'
-'variable.parameter'.fg = '#ffb757'
-'variable.other'.fg = '#f0f3f6'
-warning.fg = '#f0b72f'
+keyword = { fg = '#ff9492' }
+'markup.bold' = { fg = '#f0f3f6', modifiers = 'bold' }
+'markup.heading' = { fg = '#91cbff', modifiers = 'bold' }
+'markup.italic' = { fg = '#f0f3f6', modifiers = 'italic' }
+'markup.link' = { fg = '#addcff', modifiers = 'underline' }
+'markup.quote' = { fg = '#72f088' }
+'markup.raw' = { fg = '#91cbff' }
+operator = { fg = '#91cbff' }
+string = { fg = '#addcff' }
+'string.regexp' = { fg = '#addcff' }
+tag = { fg = '#2ea043' }
+type = { fg = '#ffb757' }
+'ui.background' = { bg = '#0a0c10', fg = '#f0f3f6' }
+'ui.cursor' = { modifiers = 'reversed' }
+'ui.cursor.match' = { bg = '#e09b13', modifiers = 'bold' }
+'ui.cursor.primary' = { modifiers = 'reversed' }
+'ui.cursorline.primary' = { bg = '#010409' }
+'ui.help' = { bg = '#010409', fg = '#f0f3f6' }
+'ui.linenr' = { fg = '#9ea7b3' }
+'ui.linenr.selected' = { fg = '#f0f3f6' }
+'ui.menu' = { bg = '#010409', fg = '#f0f3f6' }
+'ui.menu.selected' = { bg = '#272b33' }
+'ui.popup' = { bg = '#010409', fg = '#f0f3f6' }
+'ui.selection' = { bg = '#272b33' }
+'ui.selection.primary' = { bg = '#272b33' }
+'ui.statusline' = { bg = '#010409', fg = '#f0f3f6' }
+'ui.text' = { fg = '#f0f3f6' }
+'ui.virtual.ruler' = { bg = '#7a828e' }
+'ui.virtual.whitespace' = { fg = '#7a828e' }
+'ui.window' = { fg = '#0a0c10' }
+variable = { fg = '#91cbff' }
+'variable.parameter' = { fg = '#ffb757' }
+'variable.other' = { fg = '#f0f3f6' }
+warning = { fg = '#f0b72f' }
