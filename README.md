@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="./assets/screenshot-mixed.png" alt="Screenshot of Helix editor with Github themes" />
-</div>
-
 # Github themes for [Helix](https://helix-editor.com/) text editor
 
 Adapted from [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+
+<div align="center">
+  <img src="./assets/screenshot-mixed.png" alt="Screenshot of Helix editor with Github themes" />
+</div>
 
 ## Available variants
 
