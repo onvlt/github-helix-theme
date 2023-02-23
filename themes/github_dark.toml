@@ -1,22 +1,22 @@
-comment = { fg = "#8b949e", modifiers = ["italic"] }
-constant = { fg = "#79c0ff" }
+"comment" = { fg = "#8b949e", modifiers = ["italic"] }
+"constant" = { fg = "#79c0ff" }
 "constant.character.escape" = { fg = "#a5d6ff" }
-diagnostic = { modifiers = ["underlined"] }
-error = { fg = "#ffa198" }
-function = { fg = "#d2a8ff" }
+"diagnostic" = { modifiers = ["underlined"] }
+"error" = { fg = "#ffa198" }
+"function" = { fg = "#d2a8ff" }
 "function.macro" = {}
-keyword = { fg = "#ff7b72" }
+"keyword" = { fg = "#ff7b72" }
 "markup.bold" = { fg = "#c9d1d9", modifiers = ["bold"] }
 "markup.heading" = { fg = "#79c0ff", modifiers = ["bold"] }
 "markup.italic" = { fg = "#c9d1d9", modifiers = ["italic"] }
 "markup.link" = { fg = "#a5d6ff", modifiers = ["underline"] }
 "markup.quote" = { fg = "#7ee787" }
 "markup.raw" = { fg = "#79c0ff" }
-operator = { fg = "#79c0ff" }
-string = { fg = "#a5d6ff" }
+"operator" = { fg = "#79c0ff" }
+"string" = { fg = "#a5d6ff" }
 "string.regexp" = { fg = "#a5d6ff" }
-tag = { fg = "#2ea043" }
-type = { fg = "#ffa657" }
+"tag" = { fg = "#2ea043" }
+"type" = { fg = "#ffa657" }
 "ui.background" = { bg = "#0d1117", fg = "#c9d1d9" }
 "ui.cursor" = { modifiers = ["reversed"] }
 "ui.cursor.match" = { bg = "#9e6a03", modifiers = ["bold"] }
@@ -35,7 +35,7 @@ type = { fg = "#ffa657" }
 "ui.virtual.ruler" = { bg = "#484f58" }
 "ui.virtual.whitespace" = { fg = "#484f58" }
 "ui.window" = { fg = "#0d1117" }
-variable = { fg = "#79c0ff" }
+"variable" = { fg = "#79c0ff" }
 "variable.parameter" = { fg = "#ffa657" }
 "variable.other" = { fg = "#c9d1d9" }
-warning = { fg = "#d29922" }
+"warning" = { fg = "#d29922" }
