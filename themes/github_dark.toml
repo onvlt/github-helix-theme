@@ -28,8 +28,8 @@ type = { fg = "#ffa657" }
 "ui.menu" = { bg = "#010409", fg = "#c9d1d9" }
 "ui.menu.selected" = { bg = "#161b22" }
 "ui.popup" = { bg = "#010409", fg = "#c9d1d9" }
-"ui.selection" = { bg = "#161b22" }
-"ui.selection.primary" = { bg = "#161b22" }
+"ui.selection" = { bg = "#3c4a5d" }                         # Original value: #161b22
+"ui.selection.primary" = { bg = "#3c4a5d" }                 # Original value: #161b22
 "ui.statusline" = { bg = "#010409", fg = "#c9d1d9" }
 "ui.text" = { fg = "#c9d1d9" }
 "ui.virtual.ruler" = { bg = "#484f58" }
