@@ -1,0 +1,71 @@
+
+comment.fg = '#6e7781'
+comment.modifiers = [
+	'italic',
+]
+constant.fg = '#0550ae'
+'constant.character.escape'.fg = '#0a3069'
+diagnostic.modifiers = [
+	'underlined',
+]
+error.fg = '#6c3900'
+function.fg = '#8250df'
+'function.macro' = { }
+keyword.fg = '#ac5e00'
+'markup.bold'.fg = '#24292f'
+'markup.bold'.modifiers = [
+	'bold',
+]
+'markup.heading'.fg = '#0550ae'
+'markup.heading'.modifiers = [
+	'bold',
+]
+'markup.italic'.fg = '#24292f'
+'markup.italic'.modifiers = [
+	'italic',
+]
+'markup.link'.fg = '#0a3069'
+'markup.link'.modifiers = [
+	'underline',
+]
+'markup.quote'.fg = '#054da9'
+'markup.raw'.fg = '#0550ae'
+operator.fg = '#0550ae'
+string.fg = '#0a3069'
+'string.regexp'.fg = '#0a3069'
+tag.fg = '#2ea043'
+type.fg = '#953800'
+'ui.background'.bg = '#ffffff'
+'ui.background'.fg = '#24292f'
+'ui.cursor'.modifiers = [
+	'reversed',
+]
+'ui.cursor.match'.bg = '#bf8700'
+'ui.cursor.match'.modifiers = [
+	'bold',
+]
+'ui.cursor.primary'.modifiers = [
+	'reversed',
+]
+'ui.cursorline.primary'.bg = '#f6f8fa'
+'ui.help'.bg = '#f6f8fa'
+'ui.help'.fg = '#24292f'
+'ui.linenr'.fg = '#8c959f'
+'ui.linenr.selected'.fg = '#24292f'
+'ui.menu'.bg = '#f6f8fa'
+'ui.menu'.fg = '#24292f'
+'ui.menu.selected'.bg = '#f6f8fa'
+'ui.popup'.bg = '#f6f8fa'
+'ui.popup'.fg = '#24292f'
+'ui.selection'.bg = '#f6f8fa'
+'ui.selection.primary'.bg = '#f6f8fa'
+'ui.statusline'.bg = '#f6f8fa'
+'ui.statusline'.fg = '#24292f'
+'ui.text'.fg = '#24292f'
+'ui.virtual.ruler'.bg = '#6e7781'
+'ui.virtual.whitespace'.fg = '#6e7781'
+'ui.window'.fg = '#ffffff'
+variable.fg = '#0550ae'
+'variable.parameter'.fg = '#953800'
+'variable.other'.fg = '#24292f'
+warning.fg = '#7d4e00'
